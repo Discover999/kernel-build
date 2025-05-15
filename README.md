@@ -1,1 +1,1 @@
-# Kernel Auto Builder for sm6250: Miatoll serie !
+# Kernel Auto Builder for sm8150: OnePlus 7 serie !
